@@ -7,9 +7,9 @@
     "dev": "concurrently \"npm run server:dev\" \"npm run client:dev\"",
     "server:dev": "cd server && npm run dev",
     "client:dev": "cd client && npm run dev",
-    "build": "cd client && npm run build",
-    "start": "cd server && npm start",
-    "install:all": "npm install && cd server && npm install && cd ../client && npm install"
+    "install:all": "npm install && cd server && npm install && cd ../client && npm install",
+    "build": "npm run install:all && cd client && npm run build",
+    "start": "cd server && npm start"
   },
   "keywords": ["ai", "chatbot", "assistant", "rag", "metalogics"],
   "author": "MBK",
