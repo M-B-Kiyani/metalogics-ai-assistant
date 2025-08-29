@@ -2,10 +2,12 @@
 builder = "nixpacks"
 
 [build.buildCommand]
-  - "npm install"
-  - "cd client && npm install"
-  - "cd ../server && npm install"
-  - "cd .. && npm run build"
+commands = [
+  "npm install",
+  "cd client && npm install",
+  "cd ../server && npm install",
+  "cd .. && npm run build"
+]
 
 [build.startCommand]
-  - "npm start"
+command = "npm start"
