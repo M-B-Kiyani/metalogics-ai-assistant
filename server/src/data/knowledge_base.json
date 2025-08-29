@@ -1,0 +1,50 @@
+[
+  {
+    "id": "about-metalogics",
+    "title": "About Metalogics",
+    "content": "Metalogics is a leading technology company specializing in innovative software solutions, AI development, and digital transformation services. We help businesses leverage cutting-edge technology to achieve their goals and stay competitive in the digital age. Our team of experienced developers, AI specialists, and digital strategists work together to deliver solutions that drive real business value.",
+    "category": "company",
+    "url": "https://metalogics.io/about",
+    "scraped_at": "2025-08-29T16:12:25.000Z"
+  },
+  {
+    "id": "services-overview",
+    "title": "Our Services",
+    "content": "Metalogics offers comprehensive technology services including: Custom Software Development - tailored applications built to your specifications; AI and Machine Learning Solutions - intelligent systems that learn and adapt; Cloud Infrastructure - scalable and secure cloud deployments; Mobile App Development - native and cross-platform mobile applications; Digital Consulting - strategic guidance for digital transformation; DevOps and Automation - streamlined development and deployment processes.",
+    "category": "services",
+    "url": "https://metalogics.io/services",
+    "scraped_at": "2025-08-29T16:12:25.000Z"
+  },
+  {
+    "id": "portfolio-showcase",
+    "title": "Portfolio",
+    "content": "Metalogics has successfully delivered projects across various industries including healthcare, finance, e-commerce, and manufacturing. Our portfolio showcases innovative solutions that have helped businesses increase efficiency, reduce costs, and improve customer experiences. From AI-powered analytics platforms to enterprise-grade web applications, we have the expertise to handle projects of any scale.",
+    "category": "portfolio",
+    "url": "https://metalogics.io/portfolio",
+    "scraped_at": "2025-08-29T16:12:25.000Z"
+  },
+  {
+    "id": "contact-info",
+    "title": "Contact Information",
+    "content": "Ready to transform your business with cutting-edge technology? Contact Metalogics today to schedule a free consultation. Our team is ready to discuss your project requirements and provide tailored solutions that meet your specific needs. We offer flexible engagement models and competitive pricing to ensure the best value for your investment.",
+    "category": "contact",
+    "url": "https://metalogics.io/contact",
+    "scraped_at": "2025-08-29T16:12:25.000Z"
+  },
+  {
+    "id": "ai-solutions",
+    "title": "AI & Machine Learning",
+    "content": "Our AI solutions include natural language processing, computer vision, predictive analytics, and intelligent automation. We help businesses implement AI-driven decision making, automate repetitive tasks, and gain insights from their data. Our machine learning models are designed to improve over time and adapt to changing business needs.",
+    "category": "services",
+    "url": "https://metalogics.io/services/ai",
+    "scraped_at": "2025-08-29T16:12:25.000Z"
+  },
+  {
+    "id": "web-development",
+    "title": "Web Development",
+    "content": "We create modern, responsive web applications using the latest technologies including React, Node.js, Python, and cloud platforms. Our web solutions are designed for performance, scalability, and user experience. We follow best practices for security, SEO, and accessibility to ensure your web presence drives business growth.",
+    "category": "services",
+    "url": "https://metalogics.io/services/web",
+    "scraped_at": "2025-08-29T16:12:25.000Z"
+  }
+]
